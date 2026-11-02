@@ -56,3 +56,4 @@ plt.legend()
 plt.grid()
 
 plt.show()
+# Sofie er her
